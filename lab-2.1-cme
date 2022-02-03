@@ -1,1 +1,5 @@
+the SK article on how to install the CME 157492
+
+https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk157492
+
 autoprov-cfg init Azure -mn "CP-Management" -tn "Azure-VMSS-Lab-Template" -otp "Checkpoint123!" -ver "R81" -po "Azure-VMSS-Policy" -cn "Azure-VMSS-Lab-Controller" -sb "your-subscription-id" -at "your-ad-tenant-id"  -aci "your-client-id" -acs "your-client-secret"
